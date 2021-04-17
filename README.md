@@ -2,4 +2,4 @@
 #i/bin.bash
 #if [$? eq 0}
 # then
-3 fi
+# fi
